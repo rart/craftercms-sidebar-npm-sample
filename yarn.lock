@@ -1145,10 +1145,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@craftercms/studio-ui@^1.0.0-alpha.4":
-  version "1.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@craftercms/studio-ui/-/studio-ui-1.0.0-alpha.4.tgz#2176b3d6e3aa0eb22f94e4514366671a19626eea"
-  integrity sha512-hS0nr70sdaveEEesjntUqnZHSX2+w4S0mxGiCCHQxUhjTpsUE9kq5eTneOhH6HcfRTRVi9chUcd5KLgFVU+J3w==
+"@craftercms/studio-ui@1.0.0-alpha.5":
+  version "1.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@craftercms/studio-ui/-/studio-ui-1.0.0-alpha.5.tgz#b9d662a7bd468144c357ad2d530b5c8cc306beeb"
+  integrity sha512-Wqd3qB+1m+GJLGRsgVsC5VAsCBh8vozAug90yT0i+RaNUGf5KI7AFpmJ7xEwRycyE3SKTEUTei3iwz2Lky3Nqw==
   dependencies:
     "@videojs/vhs-utils" "^2.2.1"
     autosuggest-highlight "^3.1.1"
